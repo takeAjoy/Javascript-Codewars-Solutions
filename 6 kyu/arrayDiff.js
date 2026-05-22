@@ -1,5 +1,7 @@
 /* 
-https://www.codewars.com/kata/523f5d21c841566fde000009
+Link: https://www.codewars.com/kata/523f5d21c841566fde000009
+Author: marcinbunsch
+Tags: Arrays, Fundamentals, Algorithms
 */
 function arrayDiff(a, b) {
     b = [...new Set(b)];

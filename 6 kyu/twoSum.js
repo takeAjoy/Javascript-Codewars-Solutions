@@ -1,5 +1,7 @@
 /*
-https://www.codewars.com/kata/52c31f8e6605bcc646000082
+Link: https://www.codewars.com/kata/52c31f8e6605bcc646000082
+Author: wthit56
+Tags: Arrays, Fundamentals, Algorithms
 */
 function twoSum(numbers, target) {
     for (let i = 0; i < numbers.length; i++) {
