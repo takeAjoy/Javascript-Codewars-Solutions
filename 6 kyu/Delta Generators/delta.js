@@ -1,5 +1,6 @@
 /*
 Link: https://www.codewars.com/kata/6040b781e50db7000ab35125
+Kata: Delta Generators
 Author: Kacarott
 Tags: Iterators, Recursion
 */

@@ -1,5 +1,6 @@
 /*
 Link: https://www.codewars.com/kata/5375f921003bf62192000746
+Kata: Word a10n (abbreviation)
 Author: wthit56
 Tags: Strings, Fundamentals
 */
