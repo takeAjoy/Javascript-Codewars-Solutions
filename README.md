@@ -118,4 +118,6 @@ arrayDiff_description.pdf
 
 Create a PR and wait for review.
 
+## Note that we do allow some parts of the soltion to be generic AI generated code but would appriciate if solutions is result of your thinking instead.
+
 Thanks for contributing!
