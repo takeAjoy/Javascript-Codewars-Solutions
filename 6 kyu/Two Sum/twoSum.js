@@ -13,3 +13,5 @@ function twoSum(numbers, target) {
         }
     }
 }
+
+module.exports = twoSum;

@@ -1,0 +1,25 @@
+{
+  "name": "javascript-codewars-solutions",
+  "version": "1.0.0",
+  "description": "I will be solving a few problems every day and uploading the solutions to this repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takeAjoy/Javascript-Codewars-Solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/takeAjoy/Javascript-Codewars-Solutions/issues"
+  },
+  "homepage": "https://github.com/takeAjoy/Javascript-Codewars-Solutions#readme",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.6"
+  }
+}
