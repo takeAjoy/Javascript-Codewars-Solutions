@@ -19,3 +19,5 @@ function* delta(values, level) {
     }
     yield* iter;
 }
+
+module.exports = delta;
