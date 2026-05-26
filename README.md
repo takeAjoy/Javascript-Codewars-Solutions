@@ -14,7 +14,9 @@ The repository is organized like this:
 6 kyu/
 └── Kata Name/
     ├── solution.js
-    └── solution_description.pdf
+    ├── solution_description.pdf
+    └── test/
+        └── solution.test.js
 ```
 
 * `6 kyu` → difficulty folder
@@ -23,6 +25,7 @@ The repository is organized like this:
 
   * JavaScript solution file
   * PDF containing the kata description
+  * `test` folder containing test cases
 
 ---
 
@@ -66,9 +69,41 @@ Example:
 arrayDiff.js
 ```
 
+Make sure your solution is exported using:
+
+```javascript
+module.exports = arrayDiff;
+```
+
 ---
 
-### 4. Save the Kata Description as PDF
+### 4. Add Test Cases
+
+Inside the kata folder, create a `test` folder.
+
+Example:
+
+```text
+6 kyu/
+└── Array Diff/
+    ├── arrayDiff.js
+    └── test/
+        └── arrayDiff.test.js
+```
+
+After solving the problem, copy the test cases from the kata and add them inside the test file.
+
+Make sure to import the solution correctly using `require`.
+
+Example:
+
+```javascript
+const arrayDiff = require('../arrayDiff');
+```
+
+---
+
+### 5. Save the Kata Description as PDF
 
 Open the kata page and run the following code in the browser console:
 
@@ -114,10 +149,16 @@ arrayDiff_description.pdf
 
 ---
 
-### 5. Create a Pull Request
+### 6. Create a Pull Request
 
 Create a PR and wait for review.
 
-## Note that we do allow some parts of the solution to be generic AI generated code but would appreciate if solutions are result of your thinking instead.
+---
+
+## Notes
+
+* Please keep the folder structure consistent.
+* You can find test cases below the Description acccordion once you solve the problem.
+* AI-assisted solutions are allowed, but original problem-solving effort is appreciated.
 
 Thanks for contributing!
