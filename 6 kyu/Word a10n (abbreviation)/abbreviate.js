@@ -13,3 +13,5 @@ function abbreviate(string) {
         return word;
     });
 }
+
+module.exports = abbreviate;
