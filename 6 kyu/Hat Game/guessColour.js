@@ -13,3 +13,5 @@ const guessColour = (g, h) => {
             ? "Blue"
             : "Red";
 };
+
+module.exports = guessColour;
