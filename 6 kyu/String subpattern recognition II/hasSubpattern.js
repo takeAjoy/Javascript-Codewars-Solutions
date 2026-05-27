@@ -15,3 +15,5 @@ function hasSubpattern(string) {
     }
     return Object.values(obj).reduce((acc, el) => gcd(acc, el)) > 1
 }
+
+module.exports = hasSubpattern;
