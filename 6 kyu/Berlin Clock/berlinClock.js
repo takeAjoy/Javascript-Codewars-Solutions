@@ -32,3 +32,5 @@ function berlinClock(time) {
     }
     return [r, s, t, f, fi].join`\n`
 }
+
+module.exports = berlinClock;
