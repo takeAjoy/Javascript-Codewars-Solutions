@@ -27,3 +27,5 @@ function countCheckerboard(width, height, resolution) {
 
   return b;
 }
+
+module.exports = countCheckerboard;
