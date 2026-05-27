@@ -25,3 +25,5 @@ function solve(s) {
     }
     return [a / 2, b / 2].reduce((acc, el) => Math.ceil(acc) + Math.ceil(el));
 }
+
+module.exports = solve;
