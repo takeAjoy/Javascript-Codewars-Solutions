@@ -2,7 +2,17 @@ I will be solving a few problems every day and uploading the solutions to this r
 
 YouTube channel: [https://www.youtube.com/@takeAjoyOfficial](https://www.youtube.com/@takeAjoyOfficial)
 
-Solution counter: 16
+```
+1 kyu: 0 Solutions published.
+2 kyu: 0 Solutions published.
+3 kyu: 0 Solutions published.
+4 kyu: 0 Solutions published.
+5 kyu: 0 Solutions published.
+6 kyu: 16 Solutions published.
+7 kyu: 0 Solutions published.
+8 kyu: 0 Solutions published.
+```
+
 ---
 
 # How Can You Contribute?
