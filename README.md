@@ -2,7 +2,7 @@ I will be solving a few problems every day and uploading the solutions to this r
 
 YouTube channel: [https://www.youtube.com/@takeAjoyOfficial](https://www.youtube.com/@takeAjoyOfficial)
 
-Solution counter: 15
+Solution counter: 16
 ---
 
 # How Can You Contribute?
